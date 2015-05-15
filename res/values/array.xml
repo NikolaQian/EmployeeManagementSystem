@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_department">
+        <item>请选择一个部门</item>
+        <item>测试部</item>
+        <item>综合办</item>
+        <item>财政部</item>
+    </string-array>    
+</resources>

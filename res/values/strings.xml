@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmployeeManagementSystem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="select_department">选择部门</string>
+    <string name="select_data_type">选择数据类型</string>
+    <string name="password">123</string>
+    
+	<color name="yellow">#FFFF00</color>
+	<color name="ivory">#fffff0</color><!--象牙色 -->
+	<color name="mistyrose">#FFE4E1</color><!--浅玫瑰色 -->
+	<color name="tomato">#FF6347</color><!--西红柿色 -->     
+	
+	
+</resources>
